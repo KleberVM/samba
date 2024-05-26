@@ -379,4 +379,7 @@ public class mainn {
         }
         return res;
     }
+    public void pruebaBorrar(){
+        System.out.println("hola mundo");
+    }
 }
