@@ -7,7 +7,6 @@
 - Editar los recursos compartidos.
 - Eliminar los recursos compartidos.
 
-
 # Servidor Samba GUI
 
 ![](https://i.ibb.co/MpJbR64/Captura-de-pantalla-2024-05-26-113803.png)
