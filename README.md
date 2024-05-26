@@ -12,6 +12,8 @@
 
 ![](https://i.ibb.co/MpJbR64/Captura-de-pantalla-2024-05-26-113803.png)
 
+Este programa proporciona una interfaz gráfica para gestionar un servidor Samba, permitiendo la edición del archivo de configuración, la gestión de usuarios y la administración de recursos compartidos de manera visual. Es una herramienta útil para simplificar la configuración y mantenimiento de servidores Samba en entornos donde se prefiere una interfaz gráfica sobre la manipulación directa de archivos de configuración y comandos de terminal.
+
 ## Instalaciones previas
 
 - Tener instalado el servidor Samba y el cliente Samba.
